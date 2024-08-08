@@ -1,7 +1,7 @@
 
 # *Vinicius Mariath*
 
-Olá! Meu nome é Vinicius, tenho 33 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, com um foco principal no desenvolvimento backend.
+Olá! Meu nome é Vinicius, tenho 33 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, com um foco principal no desenvolvimento backend e especialmente a linguagem Java.
 
 Sou formado em outra área e atualmente estou em processo de transição de carreira.
 
