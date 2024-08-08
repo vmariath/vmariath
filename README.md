@@ -25,7 +25,8 @@ Sou formado em outra área e atualmente estou em processo de transição de carr
 
 ## 🚀Projetos em andamento
 
-🔜
+Bootcamp Dio - Claro Java com Spring Boot
+[Exercícios Java Básico](https://github.com/vmariath/exercicios-java-basico)
 
 ## 📖Status
 
