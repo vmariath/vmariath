@@ -22,6 +22,11 @@ Sou formado em outra área e atualmente estou em processo de transição de carr
 - ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+## 🚀Projetos em andamento
+
+🔜
+
 ## 📖Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmariath&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -40,6 +45,4 @@ Sou formado em outra área e atualmente estou em processo de transição de carr
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@vinimariath/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vmariath@gmail.com)
-## 🚀GitHub - Projetos
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmariath)
