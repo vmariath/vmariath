@@ -24,7 +24,7 @@ Atualmente em processo de transição de carreira.
 
 ## 🚀Projetos em andamento
 
-API de Usuários com Spring Boot
+[API de Usuários com Spring Boot](https://github.com/vmariath/spring-boot-api-usuarios)
 
 
 
