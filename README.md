@@ -19,8 +19,8 @@ Atualmente em processo de transição de carreira.
 
 ## 🚀Cursos em andamento
 
-Spring Boot Expert
-[Spring Boot Expert - Udemy](https://www.udemy.com/course/spring-boot-expert)
+[Spring Boot Expert - Udemy](https://www.udemy.com/course/spring-boot-expert/)  
+[Padrões de Projetos em Java - Udemy](https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/)
 
 ## 🚀Projetos em andamento
 
